@@ -1,5 +1,4 @@
-# Game
-Game token
+# Game Token
 
 ![Logo](https://github.com/Abuzik/Game/blob/main/assets/256x256.png)
 ## Description:
